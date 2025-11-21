@@ -3,6 +3,7 @@
 #reader(lib "htdp-intermediate-lambda-reader.ss" "lang")((modname fs) (read-case-sensitive #t) (teachpacks ()) (htdp-settings #(#t constructor repeating-decimal #f #t none #f () #f)))
 (require 2htdp/image)
 
+
 ;; fs-starter.rkt (type comments and examples)
 ;; fs-v1.rkt (complete data-definition plus function problems)
 ;; fs-v2.rkt (complete data-definition and sum-data function)
